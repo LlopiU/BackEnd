@@ -40,6 +40,7 @@ com\portfolio\ull\Security\jwt\JwtProvider.class
 com\portfolio\ull\Dto\dtoHys.class
 com\portfolio\ull\Entity\Educacion.class
 com\portfolio\ull\Security\Repository\iUsuarioRepository.class
+com\portfolio\ull\WebConfig.class
 com\portfolio\ull\Security\Entity\Usuario.class
 com\portfolio\ull\Security\MainSecurity.class
 com\portfolio\ull\Controller\CHys.class

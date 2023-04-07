@@ -30,6 +30,7 @@ D:\Proyecto AP\BackEnd\src\main\java\com\portfolio\ull\Security\Dto\LoginUsuario
 D:\Proyecto AP\BackEnd\src\main\java\com\portfolio\ull\Security\Service\UsuarioService.java
 D:\Proyecto AP\BackEnd\src\main\java\com\portfolio\ull\Interface\IPersonaService.java
 D:\Proyecto AP\BackEnd\src\main\java\com\portfolio\ull\Service\Shys.java
+D:\Proyecto AP\BackEnd\src\main\java\com\portfolio\ull\WebConfig.java
 D:\Proyecto AP\BackEnd\src\main\java\com\portfolio\ull\Entity\Educacion.java
 D:\Proyecto AP\BackEnd\src\main\java\com\portfolio\ull\Dto\dtoProyecto.java
 D:\Proyecto AP\BackEnd\src\main\java\com\portfolio\ull\Security\jwt\JwtEntryPoint.java
